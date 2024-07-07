@@ -1,0 +1,14 @@
+# Ignore data files
+data/raw/
+data/processed/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model weights
+*.h5
+*.hdf5
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
