@@ -8,6 +8,6 @@ Objectives:
 ## Resources: 
 - [Downloading necessary software and getting set up](https://youtu.be/h1sAzPojKMg?si=pzRc9Of6lW3iZ7pW)
 
-- [How to use U-Net](https://towardsdatascience.com/cook-your-first-u-net-in-pytorch-b3297a844cf3)
+- [How to use a U-Net model](https://towardsdatascience.com/cook-your-first-u-net-in-pytorch-b3297a844cf3)
 
 
