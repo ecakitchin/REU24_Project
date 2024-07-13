@@ -100,11 +100,3 @@ class UNet(nn.Module):
         out = self.outconv(xd42)
 
         return out
-
-
-# In[9]:
-
-
-import test
-test.run(UNet)
-
